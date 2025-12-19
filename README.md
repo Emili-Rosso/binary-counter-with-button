@@ -1,1 +1,3 @@
 # binary-counter-with-button
+
+This project implements a 4-bit binary counter controlled by a push button. Each time the button is pressed, the counter value is incremented by one and displayed using four LEDs, where the first LED represents the least significant bit and the fourth LED represents the most significant bit. The counter ranges from 0 to 15, and when the maximum value is reached, the next button press resets the count back to zero.
